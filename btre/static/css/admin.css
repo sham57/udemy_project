@@ -1,0 +1,22 @@
+#header{
+    color: #fff;
+    background-color:rgb(21, 21, 99);
+}
+
+#branding h1{
+    color:#fff;
+}
+div.breadcrumbs {
+    background: #79c8b2;
+    color: #795548;
+}
+div.breadcrumbs a {
+ 
+    color: #795548;
+}
+.module h2, .module caption, .inline-group h2 {
+    background: #249c6a;
+}
+.submit-row input, .submit-row input.default, .submit-row a, .submit-row a.closelink{
+    background-color: #2a842a;
+}
